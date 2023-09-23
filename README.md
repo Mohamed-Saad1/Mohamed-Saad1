@@ -12,10 +12,6 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://www.linkedin.com/in/mohamedsaad112/ to see some of the projects I've worked on.
 
-<h1 align="center">Hi 👋, I'm Mohamed Saad</h1>
-<h3 align="center">A passionate full stack developer from Egypt</h3>
-
-
 <p align="left"> <a href="https://twitter.com/medosaad112" target="blank"><img src="https://img.shields.io/twitter/follow/medosaad112?logo=twitter&style=for-the-badge" alt="medosaad112" /></a> </p>
 
 - 🌱 I’m currently learning **Node js**
